@@ -1,4 +1,4 @@
-module github.com/editd/cclient
+module github.com/ttecles/cclient
 
 go 1.19
 
